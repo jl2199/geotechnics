@@ -64,7 +64,7 @@ y3 = x3*0
 
 
 #new load case
-H = np.linspace(4.25e6, 5.75e6, 1000) 
+H = np.linspace(3.5e6, 6.5e6, 1000) 
 s_t = []
 sf = []
 
